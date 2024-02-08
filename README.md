@@ -3,6 +3,8 @@
 This is code for DQME-SQ (arXiv:2401.17255), which is a part of 
 Quantum Computation for Quantum Dissipation (QCQD) project of our research group.
 
+The code includes
 
+1. Bosonic DQME-SQ (./Bosonic)
 
-1. Dissipaton-embedded Quantum Master Equation
+2. Fermionic DQME-SQ (./Fermionic)
