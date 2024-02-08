@@ -8,3 +8,12 @@ The code includes
 1. Bosonic DQME-SQ (./Bosonic)
 
 2. Fermionic DQME-SQ (./Fermionic)
+
+
+Contact us:
+
+lvsx@mail.ustc.edu.cn
+
+li2333@mail.ustc.edu.cn
+
+wy2010@ustc.edu.cn
